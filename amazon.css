@@ -1,0 +1,121 @@
+div{
+    position: absolute;
+    padding-left:  100px;
+    padding-top: 20px;
+}
+.c1{
+    position: fixed;
+left: 30px;
+top: 362px;
+    
+}
+img{
+    position: absolute;
+    top: 100px;
+    left: 101px;
+    border: 5px solid black;
+}
+.c2{
+    left: 238px;
+    top: 100px;
+}
+button{
+    background-color:yellow;
+    border-color: white;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
+.c{
+    background-color: white;
+    color: blue;
+    
+}
+.c3{
+    top: 0px;
+    left: 183px;
+}
+.c4{
+    top: 125px;
+    left: 238px;
+    background-color:;
+}
+h5{
+
+}
+select{
+    position: ;
+    border-color: white;
+    background-color: blue;
+    color: white;
+}
+.c5{
+    top: 125px;
+    left: 268px;
+}
+.c6{
+    margin-left: 65px;
+    margin-top: -43px;
+}
+.c7{
+    margin-top: -59px;
+}
+h4{
+    color: black;
+}
+.c8{
+    margin-top: -80px;
+}
+.c9{
+    width: 28%;
+    top: -44px;
+    height: 30px;
+     opacity: 0.5;
+}
+.c10{
+    width: 28%;
+    top: -44px;
+    left: 144px;
+    height: 30px;
+    opacity: 0.5;
+}
+
+  img:hover {
+    opacity: 1.0;
+  }
+.c11{
+    top: 454px;
+}
+.c12{
+    background-color: white;
+    color: blue;
+}
+.c13{
+    position:fixed ;
+}
+i{
+    position: absolute;
+    left: 354px;
+    top: 165px;
+}
+h2{
+   margin-left:  15px;
+}
+body{
+    background-color:lightblue
+}
+.d{
+    height: 165px;
+    top: 779px;
+    width: 900%;
+    left: 307px;
+
+}
+.c15{
+    top: 953px;
+    
+}
+.c16{
+    top: 1128px;
+}
